@@ -13,8 +13,9 @@ Analyze the outcomes of the plays based on the funding goal
 
 ### Analysis of Outcomes Based on Launch Date
 
-
 ### Analysis of Outcomes Based on Goals
+
+![](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
