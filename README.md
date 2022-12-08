@@ -7,6 +7,7 @@ This project analyses Louise's Kickstarter campaigns, aiming to develop data ins
 ### Purpose
 
 Analyze the outcomes of the theater campaigns based on the launch date
+
 Analyze the outcomes of the plays based on the funding goal
 
 ***
